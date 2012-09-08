@@ -33,7 +33,7 @@ gem 'jquery-rails'
 # Use unicorn as the web server
 # gem 'unicorn'
 
-# Deploy with Capistran
+# Deploy with Capistrano
 # gem 'capistrano'
 
 # To use debugger
